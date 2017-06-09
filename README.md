@@ -14,7 +14,7 @@ See the License for the specific language governing permissions and
 limitations under the License.
 -->
 # Abstract Participant Behavior
-[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com/github/sesygroup/choreography/abstract-participant-behavior/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com/github/sesygroup/choreography/abstract-participant-behavior) [![Build Status](https://travis-ci.org/sesygroup/abstract-participant-behavior.svg?branch=master)](https://travis-ci.org/sesygroup/abstract-participant-behavior)
+[![Maven Central](https://maven-badges.herokuapp.com/maven-central/com.github.sesygroup.choreography/abstract-participant-behavior/badge.svg)](https://maven-badges.herokuapp.com/maven-central/com.github.sesygroup.choreography/abstract-participant-behavior) [![Build Status](https://travis-ci.org/sesygroup/abstract-participant-behavior.svg?branch=master)](https://travis-ci.org/sesygroup/abstract-participant-behavior)
 
 Full project details, background and more are available on the [project documention website](https://sesygroup.github.io/abstract-participant-behavior).
 
